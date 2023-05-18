@@ -1,0 +1,7 @@
+C:\Users\Студент\source\repos\day2\obj\Debug\day2.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\day2\obj\Debug\day2.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\day2\bin\Debug\day2.exe.config
+C:\Users\Студент\source\repos\day2\bin\Debug\day2.exe
+C:\Users\Студент\source\repos\day2\bin\Debug\day2.pdb
+C:\Users\Студент\source\repos\day2\obj\Debug\day2.exe
+C:\Users\Студент\source\repos\day2\obj\Debug\day2.pdb
